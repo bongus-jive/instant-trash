@@ -1,0 +1,5 @@
+[{
+	"op" : "replace",
+	"path" : "/trashBurnTimeout",
+	"value" : 0.01
+}]
